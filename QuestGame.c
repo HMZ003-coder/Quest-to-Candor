@@ -34,7 +34,7 @@ void start()
 			{
 				hp=170;
 				dmg=70;
-				hrecovery=30;
+				hrecovery=30; 
 			}
 			case 3:
 			{
